@@ -1,0 +1,48 @@
+C:\Users\Игорь\source\repos\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\bin\Release\SiegeOfTheFortress.exe.config
+C:\Users\Игорь\source\repos\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\bin\Release\SiegeOfTheFortress.exe
+C:\Users\Игорь\source\repos\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\bin\Release\SiegeOfTheFortress.pdb
+C:\Users\Игорь\source\repos\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Release\SiegeOfTheFortress.csproj.AssemblyReference.cache
+C:\Users\Игорь\source\repos\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Release\SiegeOfTheFortress.Form1.resources
+C:\Users\Игорь\source\repos\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Release\SiegeOfTheFortress.FormInstruction.resources
+C:\Users\Игорь\source\repos\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Release\SiegeOfTheFortress.FormReference.resources
+C:\Users\Игорь\source\repos\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Release\SiegeOfTheFortress.Properties.Resources.resources
+C:\Users\Игорь\source\repos\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Release\SiegeOfTheFortress.csproj.GenerateResource.cache
+C:\Users\Игорь\source\repos\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Release\SiegeOfTheFortress.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Release\SiegeOfTheFortress.exe
+C:\Users\Игорь\source\repos\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Release\SiegeOfTheFortress.pdb
+C:\Users\Igor\source\repos\ООП Итоговый проект 2205\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\bin\Release\SiegeOfTheFortress.exe.config
+C:\Users\Igor\source\repos\ООП Итоговый проект 2205\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\bin\Release\SiegeOfTheFortress.exe
+C:\Users\Igor\source\repos\ООП Итоговый проект 2205\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\bin\Release\SiegeOfTheFortress.pdb
+C:\Users\Igor\source\repos\ООП Итоговый проект 2205\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Release\SiegeOfTheFortress.csproj.AssemblyReference.cache
+C:\Users\Igor\source\repos\ООП Итоговый проект 2205\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Release\SiegeOfTheFortress.Form1.resources
+C:\Users\Igor\source\repos\ООП Итоговый проект 2205\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Release\SiegeOfTheFortress.FormInstruction.resources
+C:\Users\Igor\source\repos\ООП Итоговый проект 2205\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Release\SiegeOfTheFortress.FormReference.resources
+C:\Users\Igor\source\repos\ООП Итоговый проект 2205\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Release\SiegeOfTheFortress.Properties.Resources.resources
+C:\Users\Igor\source\repos\ООП Итоговый проект 2205\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Release\SiegeOfTheFortress.csproj.GenerateResource.cache
+C:\Users\Igor\source\repos\ООП Итоговый проект 2205\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Release\SiegeOfTheFortress.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\ООП Итоговый проект 2205\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Release\SiegeOfTheFortress.exe
+C:\Users\Igor\source\repos\ООП Итоговый проект 2205\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Release\SiegeOfTheFortress.pdb
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\bin\Release\SiegeOfTheFortress.exe.config
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\bin\Release\SiegeOfTheFortress.exe
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\bin\Release\SiegeOfTheFortress.pdb
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Release\SiegeOfTheFortress.csproj.AssemblyReference.cache
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Release\SiegeOfTheFortress.Form1.resources
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Release\SiegeOfTheFortress.FormInstruction.resources
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Release\SiegeOfTheFortress.FormReference.resources
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Release\SiegeOfTheFortress.Properties.Resources.resources
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Release\SiegeOfTheFortress.csproj.GenerateResource.cache
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Release\SiegeOfTheFortress.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Release\SiegeOfTheFortress.exe
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Release\SiegeOfTheFortress.pdb
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF\SiegeOfTheFortress\SiegeOfTheFortress\bin\Release\SiegeOfTheFortress.exe.config
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF\SiegeOfTheFortress\SiegeOfTheFortress\bin\Release\SiegeOfTheFortress.exe
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF\SiegeOfTheFortress\SiegeOfTheFortress\bin\Release\SiegeOfTheFortress.pdb
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF\SiegeOfTheFortress\SiegeOfTheFortress\obj\Release\SiegeOfTheFortress.csproj.AssemblyReference.cache
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF\SiegeOfTheFortress\SiegeOfTheFortress\obj\Release\SiegeOfTheFortress.Form1.resources
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF\SiegeOfTheFortress\SiegeOfTheFortress\obj\Release\SiegeOfTheFortress.FormInstruction.resources
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF\SiegeOfTheFortress\SiegeOfTheFortress\obj\Release\SiegeOfTheFortress.FormReference.resources
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF\SiegeOfTheFortress\SiegeOfTheFortress\obj\Release\SiegeOfTheFortress.Properties.Resources.resources
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF\SiegeOfTheFortress\SiegeOfTheFortress\obj\Release\SiegeOfTheFortress.csproj.GenerateResource.cache
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF\SiegeOfTheFortress\SiegeOfTheFortress\obj\Release\SiegeOfTheFortress.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF\SiegeOfTheFortress\SiegeOfTheFortress\obj\Release\SiegeOfTheFortress.exe
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF\SiegeOfTheFortress\SiegeOfTheFortress\obj\Release\SiegeOfTheFortress.pdb

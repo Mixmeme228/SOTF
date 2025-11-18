@@ -1,0 +1,213 @@
+C:\Users\Игорь\source\repos\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe.config
+C:\Users\Игорь\source\repos\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe
+C:\Users\Игорь\source\repos\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.pdb
+C:\Users\Игорь\source\repos\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.AssemblyReference.cache
+C:\Users\Игорь\source\repos\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Form1.resources
+C:\Users\Игорь\source\repos\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Properties.Resources.resources
+C:\Users\Игорь\source\repos\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.GenerateResource.cache
+C:\Users\Игорь\source\repos\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.exe
+C:\Users\Игорь\source\repos\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.pdb
+C:\Users\Igor\source\repos\SOTF 0103 01\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe.config
+C:\Users\Igor\source\repos\SOTF 0103 01\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe
+C:\Users\Igor\source\repos\SOTF 0103 01\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.pdb
+C:\Users\Igor\source\repos\SOTF 0103 01\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.AssemblyReference.cache
+C:\Users\Igor\source\repos\SOTF 0103 01\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Form1.resources
+C:\Users\Igor\source\repos\SOTF 0103 01\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Properties.Resources.resources
+C:\Users\Igor\source\repos\SOTF 0103 01\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.GenerateResource.cache
+C:\Users\Igor\source\repos\SOTF 0103 01\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\SOTF 0103 01\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.exe
+C:\Users\Igor\source\repos\SOTF 0103 01\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.pdb
+C:\Users\Игорь\source\repos\SOTF 0103 01\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.AssemblyReference.cache
+C:\Users\Игорь\source\repos\SOTF 0103 01\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Form1.resources
+C:\Users\Игорь\source\repos\SOTF 0103 01\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Properties.Resources.resources
+C:\Users\Игорь\source\repos\SOTF 0103 01\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.GenerateResource.cache
+C:\Users\Игорь\source\repos\SOTF 0103 01\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\SOTF 0103 01\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.exe
+C:\Users\Игорь\source\repos\SOTF 0103 01\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.pdb
+C:\Users\Игорь\source\repos\SOTF 0103 01\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe.config
+C:\Users\Игорь\source\repos\SOTF 0103 01\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe
+C:\Users\Игорь\source\repos\SOTF 0103 01\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.pdb
+C:\Users\Igor\source\repos\SOTF 1503\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.AssemblyReference.cache
+C:\Users\Igor\source\repos\SOTF 1503\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Form1.resources
+C:\Users\Igor\source\repos\SOTF 1503\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Properties.Resources.resources
+C:\Users\Igor\source\repos\SOTF 1503\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.GenerateResource.cache
+C:\Users\Igor\source\repos\SOTF 1503\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\SOTF 1503\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.exe
+C:\Users\Igor\source\repos\SOTF 1503\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.pdb
+C:\Users\Igor\source\repos\SOTF 1503\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe.config
+C:\Users\Igor\source\repos\SOTF 1503\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe
+C:\Users\Igor\source\repos\SOTF 1503\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.pdb
+C:\Users\Игорь\source\repos\SOTF 1503 01\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe.config
+C:\Users\Игорь\source\repos\SOTF 1503 01\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe
+C:\Users\Игорь\source\repos\SOTF 1503 01\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.pdb
+C:\Users\Игорь\source\repos\SOTF 1503 01\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.AssemblyReference.cache
+C:\Users\Игорь\source\repos\SOTF 1503 01\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Form1.resources
+C:\Users\Игорь\source\repos\SOTF 1503 01\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Properties.Resources.resources
+C:\Users\Игорь\source\repos\SOTF 1503 01\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.GenerateResource.cache
+C:\Users\Игорь\source\repos\SOTF 1503 01\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\SOTF 1503 01\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.exe
+C:\Users\Игорь\source\repos\SOTF 1503 01\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.pdb
+C:\Users\Igor\source\repos\SOTF 2703 01\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe.config
+C:\Users\Igor\source\repos\SOTF 2703 01\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe
+C:\Users\Igor\source\repos\SOTF 2703 01\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.pdb
+C:\Users\Igor\source\repos\SOTF 2703 01\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.AssemblyReference.cache
+C:\Users\Igor\source\repos\SOTF 2703 01\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Form1.resources
+C:\Users\Igor\source\repos\SOTF 2703 01\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Properties.Resources.resources
+C:\Users\Igor\source\repos\SOTF 2703 01\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.GenerateResource.cache
+C:\Users\Igor\source\repos\SOTF 2703 01\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\SOTF 2703 01\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.exe
+C:\Users\Igor\source\repos\SOTF 2703 01\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.pdb
+C:\Users\Игорь\source\repos\SOTF 2803\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe.config
+C:\Users\Игорь\source\repos\SOTF 2803\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe
+C:\Users\Игорь\source\repos\SOTF 2803\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.pdb
+C:\Users\Игорь\source\repos\SOTF 2803\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.AssemblyReference.cache
+C:\Users\Игорь\source\repos\SOTF 2803\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Form1.resources
+C:\Users\Игорь\source\repos\SOTF 2803\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Properties.Resources.resources
+C:\Users\Игорь\source\repos\SOTF 2803\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.GenerateResource.cache
+C:\Users\Игорь\source\repos\SOTF 2803\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\SOTF 2803\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.exe
+C:\Users\Игорь\source\repos\SOTF 2803\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.pdb
+C:\Users\Igor\source\repos\SOTF 2903\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe.config
+C:\Users\Igor\source\repos\SOTF 2903\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe
+C:\Users\Igor\source\repos\SOTF 2903\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.pdb
+C:\Users\Igor\source\repos\SOTF 2903\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.AssemblyReference.cache
+C:\Users\Igor\source\repos\SOTF 2903\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Form1.resources
+C:\Users\Igor\source\repos\SOTF 2903\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Properties.Resources.resources
+C:\Users\Igor\source\repos\SOTF 2903\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.GenerateResource.cache
+C:\Users\Igor\source\repos\SOTF 2903\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\SOTF 2903\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.exe
+C:\Users\Igor\source\repos\SOTF 2903\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.pdb
+C:\Users\Игорь\source\repos\SOTF 0904\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe.config
+C:\Users\Игорь\source\repos\SOTF 0904\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe
+C:\Users\Игорь\source\repos\SOTF 0904\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.pdb
+C:\Users\Игорь\source\repos\SOTF 0904\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.AssemblyReference.cache
+C:\Users\Игорь\source\repos\SOTF 0904\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Form1.resources
+C:\Users\Игорь\source\repos\SOTF 0904\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Properties.Resources.resources
+C:\Users\Игорь\source\repos\SOTF 0904\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.GenerateResource.cache
+C:\Users\Игорь\source\repos\SOTF 0904\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\SOTF 0904\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.exe
+C:\Users\Игорь\source\repos\SOTF 0904\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.pdb
+C:\Users\Igor\source\repos\SOTF 1104\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe.config
+C:\Users\Igor\source\repos\SOTF 1104\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe
+C:\Users\Igor\source\repos\SOTF 1104\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.pdb
+C:\Users\Igor\source\repos\SOTF 1104\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.AssemblyReference.cache
+C:\Users\Igor\source\repos\SOTF 1104\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Form1.resources
+C:\Users\Igor\source\repos\SOTF 1104\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Properties.Resources.resources
+C:\Users\Igor\source\repos\SOTF 1104\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.GenerateResource.cache
+C:\Users\Igor\source\repos\SOTF 1104\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\SOTF 1104\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.exe
+C:\Users\Igor\source\repos\SOTF 1104\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.pdb
+C:\Users\Игорь\source\repos\SOTF 1104 01\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe.config
+C:\Users\Игорь\source\repos\SOTF 1104 01\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe
+C:\Users\Игорь\source\repos\SOTF 1104 01\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.pdb
+C:\Users\Игорь\source\repos\SOTF 1104 01\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.AssemblyReference.cache
+C:\Users\Игорь\source\repos\SOTF 1104 01\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Form1.resources
+C:\Users\Игорь\source\repos\SOTF 1104 01\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Properties.Resources.resources
+C:\Users\Игорь\source\repos\SOTF 1104 01\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.GenerateResource.cache
+C:\Users\Игорь\source\repos\SOTF 1104 01\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\SOTF 1104 01\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.exe
+C:\Users\Игорь\source\repos\SOTF 1104 01\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.pdb
+C:\Users\Igor\source\repos\SOTF 1104 02\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.AssemblyReference.cache
+C:\Users\Igor\source\repos\SOTF 1104 02\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Form1.resources
+C:\Users\Igor\source\repos\SOTF 1104 02\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Properties.Resources.resources
+C:\Users\Igor\source\repos\SOTF 1104 02\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.GenerateResource.cache
+C:\Users\Igor\source\repos\SOTF 1104 02\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\SOTF 1104 02\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.exe
+C:\Users\Igor\source\repos\SOTF 1104 02\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.pdb
+C:\Users\Igor\source\repos\SOTF 1104 02\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe.config
+C:\Users\Igor\source\repos\SOTF 1104 02\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe
+C:\Users\Igor\source\repos\SOTF 1104 02\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.pdb
+C:\Users\Игорь\source\repos\SOTF 1304\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe.config
+C:\Users\Игорь\source\repos\SOTF 1304\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe
+C:\Users\Игорь\source\repos\SOTF 1304\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.pdb
+C:\Users\Игорь\source\repos\SOTF 1304\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.AssemblyReference.cache
+C:\Users\Игорь\source\repos\SOTF 1304\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Form1.resources
+C:\Users\Игорь\source\repos\SOTF 1304\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Properties.Resources.resources
+C:\Users\Игорь\source\repos\SOTF 1304\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.GenerateResource.cache
+C:\Users\Игорь\source\repos\SOTF 1304\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\SOTF 1304\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.exe
+C:\Users\Игорь\source\repos\SOTF 1304\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.pdb
+C:\Users\Игорь\source\repos\SOTF 1404\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe.config
+C:\Users\Игорь\source\repos\SOTF 1404\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe
+C:\Users\Игорь\source\repos\SOTF 1404\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.pdb
+C:\Users\Игорь\source\repos\SOTF 1404\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.AssemblyReference.cache
+C:\Users\Игорь\source\repos\SOTF 1404\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Form1.resources
+C:\Users\Игорь\source\repos\SOTF 1404\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Properties.Resources.resources
+C:\Users\Игорь\source\repos\SOTF 1404\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.GenerateResource.cache
+C:\Users\Игорь\source\repos\SOTF 1404\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\SOTF 1404\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.exe
+C:\Users\Игорь\source\repos\SOTF 1404\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.pdb
+C:\Users\Игорь\source\repos\SOTF 1404\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.FormReference.resources
+C:\Users\Игорь\source\repos\SOTF 1404\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.FormInstruction.resources
+C:\Users\Igor\source\repos\SOTF 1305\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe.config
+C:\Users\Igor\source\repos\SOTF 1305\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe
+C:\Users\Igor\source\repos\SOTF 1305\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.pdb
+C:\Users\Igor\source\repos\SOTF 1305\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.AssemblyReference.cache
+C:\Users\Igor\source\repos\SOTF 1305\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Form1.resources
+C:\Users\Igor\source\repos\SOTF 1305\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.FormInstruction.resources
+C:\Users\Igor\source\repos\SOTF 1305\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.FormReference.resources
+C:\Users\Igor\source\repos\SOTF 1305\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Properties.Resources.resources
+C:\Users\Igor\source\repos\SOTF 1305\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.GenerateResource.cache
+C:\Users\Igor\source\repos\SOTF 1305\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\SOTF 1305\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.exe
+C:\Users\Igor\source\repos\SOTF 1305\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.pdb
+C:\Users\Игорь\source\repos\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe.config
+C:\Users\Игорь\source\repos\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe
+C:\Users\Игорь\source\repos\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.pdb
+C:\Users\Игорь\source\repos\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.AssemblyReference.cache
+C:\Users\Игорь\source\repos\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Form1.resources
+C:\Users\Игорь\source\repos\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.FormInstruction.resources
+C:\Users\Игорь\source\repos\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.FormReference.resources
+C:\Users\Игорь\source\repos\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Properties.Resources.resources
+C:\Users\Игорь\source\repos\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.GenerateResource.cache
+C:\Users\Игорь\source\repos\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.exe
+C:\Users\Игорь\source\repos\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.pdb
+C:\Users\Igor\source\repos\ООП Итоговый проект 2205\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe.config
+C:\Users\Igor\source\repos\ООП Итоговый проект 2205\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe
+C:\Users\Igor\source\repos\ООП Итоговый проект 2205\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.pdb
+C:\Users\Igor\source\repos\ООП Итоговый проект 2205\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.AssemblyReference.cache
+C:\Users\Igor\source\repos\ООП Итоговый проект 2205\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Form1.resources
+C:\Users\Igor\source\repos\ООП Итоговый проект 2205\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.FormInstruction.resources
+C:\Users\Igor\source\repos\ООП Итоговый проект 2205\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.FormReference.resources
+C:\Users\Igor\source\repos\ООП Итоговый проект 2205\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Properties.Resources.resources
+C:\Users\Igor\source\repos\ООП Итоговый проект 2205\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.GenerateResource.cache
+C:\Users\Igor\source\repos\ООП Итоговый проект 2205\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\ООП Итоговый проект 2205\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.exe
+C:\Users\Igor\source\repos\ООП Итоговый проект 2205\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.pdb
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe.config
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.pdb
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.AssemblyReference.cache
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Form1.resources
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.FormInstruction.resources
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.FormReference.resources
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Properties.Resources.resources
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.GenerateResource.cache
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.exe
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF 1405\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.pdb
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe.config
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.pdb
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.AssemblyReference.cache
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Form1.resources
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.FormInstruction.resources
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.FormReference.resources
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Properties.Resources.resources
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.GenerateResource.cache
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.exe
+C:\Users\Игорь\source\repos\ООП Итоговый проект 2305\SOTF\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.pdb
+C:\Users\Comp\Desktop\проекты гит\SOTF\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe.config
+C:\Users\Comp\Desktop\проекты гит\SOTF\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.exe
+C:\Users\Comp\Desktop\проекты гит\SOTF\SiegeOfTheFortress\SiegeOfTheFortress\bin\Debug\SiegeOfTheFortress.pdb
+C:\Users\Comp\Desktop\проекты гит\SOTF\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.AssemblyReference.cache
+C:\Users\Comp\Desktop\проекты гит\SOTF\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Form1.resources
+C:\Users\Comp\Desktop\проекты гит\SOTF\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.FormInstruction.resources
+C:\Users\Comp\Desktop\проекты гит\SOTF\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.Properties.Resources.resources
+C:\Users\Comp\Desktop\проекты гит\SOTF\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.GenerateResource.cache
+C:\Users\Comp\Desktop\проекты гит\SOTF\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.csproj.CoreCompileInputs.cache
+C:\Users\Comp\Desktop\проекты гит\SOTF\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.exe
+C:\Users\Comp\Desktop\проекты гит\SOTF\SiegeOfTheFortress\SiegeOfTheFortress\obj\Debug\SiegeOfTheFortress.pdb

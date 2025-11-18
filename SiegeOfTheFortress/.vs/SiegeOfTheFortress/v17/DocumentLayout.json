@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C26E3F3-F138-4E0C-82AC-0336F29F4AF6}|SiegeOfTheFortress\\SiegeOfTheFortress.csproj|c:\\users\\comp\\desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\sotf\\siegeofthefortress\\siegeofthefortress\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C26E3F3-F138-4E0C-82AC-0336F29F4AF6}|SiegeOfTheFortress\\SiegeOfTheFortress.csproj|solutionrelative:siegeofthefortress\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C26E3F3-F138-4E0C-82AC-0336F29F4AF6}|SiegeOfTheFortress\\SiegeOfTheFortress.csproj|C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\siegeofthefortress\\forminstruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C26E3F3-F138-4E0C-82AC-0336F29F4AF6}|SiegeOfTheFortress\\SiegeOfTheFortress.csproj|solutionrelative:siegeofthefortress\\forminstruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C26E3F3-F138-4E0C-82AC-0336F29F4AF6}|SiegeOfTheFortress\\SiegeOfTheFortress.csproj|C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\siegeofthefortress\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C26E3F3-F138-4E0C-82AC-0336F29F4AF6}|SiegeOfTheFortress\\SiegeOfTheFortress.csproj|solutionrelative:siegeofthefortress\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C26E3F3-F138-4E0C-82AC-0336F29F4AF6}|SiegeOfTheFortress\\SiegeOfTheFortress.csproj|C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\siegeofthefortress\\minifield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C26E3F3-F138-4E0C-82AC-0336F29F4AF6}|SiegeOfTheFortress\\SiegeOfTheFortress.csproj|solutionrelative:siegeofthefortress\\minifield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C26E3F3-F138-4E0C-82AC-0336F29F4AF6}|SiegeOfTheFortress\\SiegeOfTheFortress.csproj|C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\siegeofthefortress\\listofgameobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C26E3F3-F138-4E0C-82AC-0336F29F4AF6}|SiegeOfTheFortress\\SiegeOfTheFortress.csproj|solutionrelative:siegeofthefortress\\listofgameobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C26E3F3-F138-4E0C-82AC-0336F29F4AF6}|SiegeOfTheFortress\\SiegeOfTheFortress.csproj|C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\siegeofthefortress\\typeofcharactereffects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C26E3F3-F138-4E0C-82AC-0336F29F4AF6}|SiegeOfTheFortress\\SiegeOfTheFortress.csproj|solutionrelative:siegeofthefortress\\typeofcharactereffects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C26E3F3-F138-4E0C-82AC-0336F29F4AF6}|SiegeOfTheFortress\\SiegeOfTheFortress.csproj|C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\siegeofthefortress\\typeofcharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C26E3F3-F138-4E0C-82AC-0336F29F4AF6}|SiegeOfTheFortress\\SiegeOfTheFortress.csproj|solutionrelative:siegeofthefortress\\typeofcharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C26E3F3-F138-4E0C-82AC-0336F29F4AF6}|SiegeOfTheFortress\\SiegeOfTheFortress.csproj|C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\siegeofthefortress\\witch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C26E3F3-F138-4E0C-82AC-0336F29F4AF6}|SiegeOfTheFortress\\SiegeOfTheFortress.csproj|solutionrelative:siegeofthefortress\\witch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C26E3F3-F138-4E0C-82AC-0336F29F4AF6}|SiegeOfTheFortress\\SiegeOfTheFortress.csproj|C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\siegeofthefortress\\artifact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C26E3F3-F138-4E0C-82AC-0336F29F4AF6}|SiegeOfTheFortress\\SiegeOfTheFortress.csproj|solutionrelative:siegeofthefortress\\artifact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C26E3F3-F138-4E0C-82AC-0336F29F4AF6}|SiegeOfTheFortress\\SiegeOfTheFortress.csproj|C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\siegeofthefortress\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C26E3F3-F138-4E0C-82AC-0336F29F4AF6}|SiegeOfTheFortress\\SiegeOfTheFortress.csproj|solutionrelative:siegeofthefortress\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C26E3F3-F138-4E0C-82AC-0336F29F4AF6}|SiegeOfTheFortress\\SiegeOfTheFortress.csproj|C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\siegeofthefortress\\soldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C26E3F3-F138-4E0C-82AC-0336F29F4AF6}|SiegeOfTheFortress\\SiegeOfTheFortress.csproj|solutionrelative:siegeofthefortress\\soldier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C26E3F3-F138-4E0C-82AC-0336F29F4AF6}|SiegeOfTheFortress\\SiegeOfTheFortress.csproj|C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\siegeofthefortress\\cannon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C26E3F3-F138-4E0C-82AC-0336F29F4AF6}|SiegeOfTheFortress\\SiegeOfTheFortress.csproj|solutionrelative:siegeofthefortress\\cannon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C26E3F3-F138-4E0C-82AC-0336F29F4AF6}|SiegeOfTheFortress\\SiegeOfTheFortress.csproj|C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\siegeofthefortress\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C26E3F3-F138-4E0C-82AC-0336F29F4AF6}|SiegeOfTheFortress\\SiegeOfTheFortress.csproj|solutionrelative:siegeofthefortress\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C26E3F3-F138-4E0C-82AC-0336F29F4AF6}|SiegeOfTheFortress\\SiegeOfTheFortress.csproj|C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\siegeofthefortress\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C26E3F3-F138-4E0C-82AC-0336F29F4AF6}|SiegeOfTheFortress\\SiegeOfTheFortress.csproj|solutionrelative:siegeofthefortress\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C26E3F3-F138-4E0C-82AC-0336F29F4AF6}|SiegeOfTheFortress\\SiegeOfTheFortress.csproj|C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\siegeofthefortress\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{2C26E3F3-F138-4E0C-82AC-0336F29F4AF6}|SiegeOfTheFortress\\SiegeOfTheFortress.csproj|solutionrelative:siegeofthefortress\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TypeofCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\SiegeOfTheFortress\\TypeofCharacter.cs",
+              "RelativeDocumentMoniker": "SiegeOfTheFortress\\TypeofCharacter.cs",
+              "ToolTip": "C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\SiegeOfTheFortress\\TypeofCharacter.cs",
+              "RelativeToolTip": "SiegeOfTheFortress\\TypeofCharacter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:28:20.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TypeofCharacterEffects.cs",
+              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\SiegeOfTheFortress\\TypeofCharacterEffects.cs",
+              "RelativeDocumentMoniker": "SiegeOfTheFortress\\TypeofCharacterEffects.cs",
+              "ToolTip": "C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\SiegeOfTheFortress\\TypeofCharacterEffects.cs",
+              "RelativeToolTip": "SiegeOfTheFortress\\TypeofCharacterEffects.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:28:19.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListofGameObjects.cs",
+              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\SiegeOfTheFortress\\ListofGameObjects.cs",
+              "RelativeDocumentMoniker": "SiegeOfTheFortress\\ListofGameObjects.cs",
+              "ToolTip": "C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\SiegeOfTheFortress\\ListofGameObjects.cs",
+              "RelativeToolTip": "SiegeOfTheFortress\\ListofGameObjects.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:28:17.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Minifield.cs",
+              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\SiegeOfTheFortress\\Minifield.cs",
+              "RelativeDocumentMoniker": "SiegeOfTheFortress\\Minifield.cs",
+              "ToolTip": "C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\SiegeOfTheFortress\\Minifield.cs",
+              "RelativeToolTip": "SiegeOfTheFortress\\Minifield.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:28:16.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormInstruction.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\SiegeOfTheFortress\\FormInstruction.cs",
+              "RelativeDocumentMoniker": "SiegeOfTheFortress\\FormInstruction.cs",
+              "ToolTip": "C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\SiegeOfTheFortress\\FormInstruction.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SiegeOfTheFortress\\FormInstruction.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:28:11.046Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cannon.cs",
+              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\SiegeOfTheFortress\\Cannon.cs",
+              "RelativeDocumentMoniker": "SiegeOfTheFortress\\Cannon.cs",
+              "ToolTip": "C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\SiegeOfTheFortress\\Cannon.cs",
+              "RelativeToolTip": "SiegeOfTheFortress\\Cannon.cs",
+              "ViewState": "AgIAAPIAAAAAAAAAAAAYwIcBAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:27:39.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Soldier.cs",
+              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\SiegeOfTheFortress\\Soldier.cs",
+              "RelativeDocumentMoniker": "SiegeOfTheFortress\\Soldier.cs",
+              "ToolTip": "C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\SiegeOfTheFortress\\Soldier.cs",
+              "RelativeToolTip": "SiegeOfTheFortress\\Soldier.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAcwPwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:27:39.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\SiegeOfTheFortress\\Form1.cs",
+              "RelativeDocumentMoniker": "SiegeOfTheFortress\\Form1.cs",
+              "ToolTip": "C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\SiegeOfTheFortress\\Form1.cs",
+              "RelativeToolTip": "SiegeOfTheFortress\\Form1.cs",
+              "ViewState": "AgIAAHkBAAAAAAAAAAA0wH4BAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:27:39.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Witch.cs",
+              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\SiegeOfTheFortress\\Witch.cs",
+              "RelativeDocumentMoniker": "SiegeOfTheFortress\\Witch.cs",
+              "ToolTip": "C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\SiegeOfTheFortress\\Witch.cs",
+              "RelativeToolTip": "SiegeOfTheFortress\\Witch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:28:23.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\SiegeOfTheFortress\\Card.cs",
+              "RelativeDocumentMoniker": "SiegeOfTheFortress\\Card.cs",
+              "ToolTip": "C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\SiegeOfTheFortress\\Card.cs",
+              "RelativeToolTip": "SiegeOfTheFortress\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:28:30.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Artifact.cs",
+              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\SiegeOfTheFortress\\Artifact.cs",
+              "RelativeDocumentMoniker": "SiegeOfTheFortress\\Artifact.cs",
+              "ToolTip": "C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\SiegeOfTheFortress\\Artifact.cs",
+              "RelativeToolTip": "SiegeOfTheFortress\\Artifact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:28:31.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\SiegeOfTheFortress\\GameObject.cs",
+              "RelativeDocumentMoniker": "SiegeOfTheFortress\\GameObject.cs",
+              "ToolTip": "C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\SiegeOfTheFortress\\GameObject.cs",
+              "RelativeToolTip": "SiegeOfTheFortress\\GameObject.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAcwBMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:27:39.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Field.cs",
+              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\SiegeOfTheFortress\\Field.cs",
+              "RelativeDocumentMoniker": "SiegeOfTheFortress\\Field.cs",
+              "ToolTip": "C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\SiegeOfTheFortress\\Field.cs",
+              "RelativeToolTip": "SiegeOfTheFortress\\Field.cs",
+              "ViewState": "AQIAAPcAAAAAAAAAAAAAAPoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:27:39.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\SiegeOfTheFortress\\Form1.cs",
+              "RelativeDocumentMoniker": "SiegeOfTheFortress\\Form1.cs",
+              "ToolTip": "C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\SiegeOfTheFortress\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SiegeOfTheFortress\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:27:39.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\SiegeOfTheFortress\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "SiegeOfTheFortress\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\Comp\\Desktop\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0433\u0438\u0442\\SOTF\\SiegeOfTheFortress\\SiegeOfTheFortress\\Properties\\Resources.resx",
+              "RelativeToolTip": "SiegeOfTheFortress\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-16T19:27:39.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

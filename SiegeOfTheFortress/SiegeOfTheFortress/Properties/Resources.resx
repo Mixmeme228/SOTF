@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Aegrotat" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Aegrotat.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="allysoldier_died1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-03-11 191758.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="allysoldier_died2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-03-11 191805.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="allysoldier_died3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-03-11 191811.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="area" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a-scalable-2d-icon-of-cowboy-shoe_9206-4890.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="areadamage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\65662c9a922d635d855a8ae2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="artifact" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\artifact.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="attack_allysoldier1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-02-29 174121.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="attack_allysoldier2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-02-29 174127.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="attack_allysoldier3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-02-29 173819.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="attack_allysoldier4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-02-29 173827.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="attack_enemysoldier1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-02-29 183030.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="attack_enemysoldier2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-02-29 183039.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="attack_enemysoldier3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-02-29 183046.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="attack_enemysoldier4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-02-29 183054.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="attack_enemywizard1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-02-29 193302.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="attack_enemywizard2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-02-29 193314.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="attack_enemywizard3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-02-29 1933021.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="attack_enemywizard4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-02-29 1933141.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="attack_wizard1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\attack_wizard1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="attack_wizard2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\attack_wizard2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="attack_wizard3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\attack_wizard3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="attack_wizard4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\attack_wizard4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Bleeding" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\893529.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cannon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cannon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cannonenemy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cannon1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cannon_died1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-03-11 191939.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cannon_died2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-03-11 191943.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cannon_died3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-03-11 191949.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cannon_died4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-03-11 191956.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cannon_died5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-03-11 192001.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="damage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\illustration-vector-graphic-cartoon-sword-2d-or-flat-design-style-gold-sword-with-children-style_868.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="earthtexture" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\earthtexture.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="enemysoldier_died1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-02-29 1933541.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="enemysoldier_died2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-03-11 191844.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="enemysoldier_died3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-03-11 191850.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="enemywizard_died1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-03-11 191916.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="enemywizard_died2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-03-11 191922.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="enemywizard_died3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-03-11 1919221.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fire_ball1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-03-11 203500.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fire_ball2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-03-11 203509.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fire_ball3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-03-11 203532.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fire_ball4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-03-11 203538.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fire_ball5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-03-11 203543.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fire_ball6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-03-11 203547.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="health" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\2d-red-heart-icon-love-symbol-vector-desing_744955-1473.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hit1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-03-11 203621.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hit2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-03-11 203625.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hit3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-03-11 203630.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hit4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-03-11 203637.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hit5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-03-11 203642.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hurt_allysoldier" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-02-29 193418.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hurt_enemysoldier" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-02-29 193354.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hurt_enemywizard1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-02-29 193342.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hurt_enemywizard2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-02-29 193331.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hurt_wizard" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-02-29 193553.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="idle_allysoldier" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-02-29 173531.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="idle_enemysoldier" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-02-29 182840.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="idle_enemywizard" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-02-29 193223.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="idle_wizard" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\idle_wizard.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="order" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pedestal-with-cups-of-first-second-and-third-places_124715-690.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="picture1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\picture1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="picture2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\picture2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="picture3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\picture3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="picture4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\picture4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="picture5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\picture5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="picture6" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\picture6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="points" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-diamond-icon-png-image_1491558.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="speed" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngtree-lightning-button-icon-design-png-image_1518954.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Swirlwind" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cartoon-tornado-storm-cyclone-twisted-vortex_8071-25079.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="walk_allysoldier1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-02-29 173641.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="walk_allysoldier2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-02-29 173735.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="walk_allysoldier3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-02-29 173749.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="walk_allysoldier4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-02-29 173754.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="walk_enemysoldier1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-02-29 182949.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="walk_enemysoldier2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-02-29 182956.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="walk_enemysoldier3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-02-29 183002.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="walk_enemysoldier4" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-02-29 183007.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="walk_enemywizard1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-02-29 193236.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="walk_enemywizard2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-02-29 193243.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="walk_enemywizard3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-02-29 1932431.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="walk_wizard1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\walk_wizard1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="walk_wizard2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\walk_wizard2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="walk_wizard3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\61.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wall" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wall.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wall1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\wall1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wizard_died1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-03-11 192036.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wizard_died2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-03-11 192054.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="wizard_died3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Снимок экрана 2024-03-11 192109.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>
